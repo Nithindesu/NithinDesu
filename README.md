@@ -1,6 +1,13 @@
 ## Hi there 👋
+
 # 💫 About Me:
-Data Science graduate student with a strong interest in Artificial Intelligence, Machine Learning, and building scalable data driven solutions.<br>Skilled in Python, SQL, Power BI, data analytics, ETL workflows, statistical modeling, and cloud-based ML deployment.<br>Experienced in NLP, transformer architectures, RAG pipelines, vector databases, Flask APIs, AWS, and developing AI agents using modern GenAI frameworks.<br>Passionate about AI engineering, agentic workflows, semantic search, automation, and designing intelligent systems for real-world applications.
+🤖 Data Science graduate student with a strong interest in Artificial Intelligence, Machine Learning, and building scalable data-driven solutions.  
+
+🐍 Skilled in Python, SQL, Power BI, data analytics, ETL workflows, statistical modeling, and cloud-based ML deployment.  
+
+🧠 Experienced in NLP, transformer architectures, RAG pipelines, vector databases, Flask APIs, AWS, and developing AI agents using modern GenAI frameworks.  
+
+🚀 Passionate about AI engineering, agentic workflows, semantic search, automation, and designing intelligent systems for real-world applications.
 
 
 ## 🌐 Socials:
