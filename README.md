@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+# 💫 About Me :
 🤖 Data Science graduate student with a strong interest in Artificial Intelligence, Machine Learning, and building scalable data-driven solutions.  
 
 🐍 Skilled in Python, SQL, Power BI, data analytics, ETL workflows, statistical modeling, and cloud-based ML deployment.  
