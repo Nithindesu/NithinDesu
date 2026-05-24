@@ -37,13 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithindesu&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithindesu&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🌱 Currently Learning
 - Advanced RAG techniques — hybrid search and re-ranking
 - LLM fine-tuning and prompt engineering
