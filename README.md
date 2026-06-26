@@ -28,6 +28,17 @@
 
 ---
 
+## 📜 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| [Snowflake Data Warehousing Workshop](https://achieve.snowflake.com/50d37059-6b3e-4195-9ac6-c989ae7f8b68#acc.9J7a5xAp) | Snowflake | 2026 |
+| [Google Data Analytics Professional Certificate](https://coursera.org/share/aca2d26889566ad475f7c41e8adc7901) | Google | 2024 |
+| [Data Analytics Essentials](https://www.credly.com/badges/abf4dc25-91b4-42a9-878c-ff363867863d/print) | Cisco | 2023 |
+| [Microsoft Azure Data Fundamentals (DP-900)](https://www.credly.com/badges/2291a69f-7d9c-4095-a9ef-940bcf81a4eb/public_url) | Microsoft | 2023 |
+
+---
+
 ## 📌 Featured Projects
 
 | Project | Description | Stack |
